@@ -1,0 +1,6 @@
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\bin\SinavSistemi.dll.config
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\bin\SinavSistemi.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\bin\SinavSistemi.pdb
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\obj\Release\SinavSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\obj\Release\SinavSistemi.dll
+C:\Users\Recep Çoban\Documents\Visual Studio 2013\Projects\SinavSistemi\SinavSistemi\obj\Release\SinavSistemi.pdb

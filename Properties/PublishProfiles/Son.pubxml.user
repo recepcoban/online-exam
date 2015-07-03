@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Recep Çoban\Desktop\Son</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin/Default.aspx">
+      <publishTime>05/25/2015 23:28:28</publishTime>
+    </File>
+    <File Include="admin/Giris.aspx">
+      <publishTime>04/29/2015 01:22:11</publishTime>
+    </File>
+    <File Include="bin/SinavSistemi.dll">
+      <publishTime>05/26/2015 00:05:07</publishTime>
+    </File>
+    <File Include="CevapKontrol.aspx">
+      <publishTime>05/25/2015 00:30:30</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>03/25/2015 22:48:39</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>05/24/2015 22:47:39</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/25/2015 23:22:44</publishTime>
+    </File>
+    <File Include="fonts/gandhi-bold-sans.eot">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-bold-sans.ttf">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-bold-serif.eot">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-bold-serif.ttf">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-sans.ttf">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-serif.eot">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/gandhi-serif.ttf">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="Giris.aspx">
+      <publishTime>05/18/2015 23:35:28</publishTime>
+    </File>
+    <File Include="img/ali.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/facebook.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/feyyaz.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/icn-search.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/macbook.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/profil/userfoto.jpg">
+      <publishTime>04/20/2015 16:30:19</publishTime>
+    </File>
+    <File Include="img/resim1.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/resim2.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/resim3.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/resim4.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/resim5.jpg">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/twitter.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/wild_oliva.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="img/yukari-cik.png">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>03/25/2015 22:48:40</publishTime>
+    </File>
+    <File Include="Profil.aspx">
+      <publishTime>05/25/2015 00:19:53</publishTime>
+    </File>
+    <File Include="Sinav.aspx">
+      <publishTime>05/25/2015 23:25:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/25/2015 23:30:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
